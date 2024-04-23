@@ -1,0 +1,22 @@
+h1{
+    font-style: bold; text-align: center;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    color: black;
+}
+.fst-italic{
+    color: blue; font-style: italic;
+}
+body {
+    border: 10px solid black; 
+    margin: 5px; 
+    padding: 10px; 
+    background-color: rgb(249, 227, 199);
+    justify-content: center;
+    align-items: center;
+}
+.link{
+    color: blue
+}
